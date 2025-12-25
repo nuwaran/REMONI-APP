@@ -24,3 +24,11 @@ Recorded: `2026-09-13T12:17:52+05:30`. This is retrospective documentation, not 
 - Catalog reference: `README.md` — [open the existing snapshot file](https://github.com/nuwaran/REMONI-APP/blob/076a1b03452173f05b9f315672e0b3b7d8edf753/README.md).
 - Git object: `bdd8872844403c8db291aa40f7e9c424de122544`; mode `100644`; type `blob`.
 - Purpose: make the existing project evidence traceable to a specific, immutable snapshot. File contents, credentials, and private data are not copied into this journal.
+
+### J0002 — calendar label 2025-12-25
+
+Recorded: `2026-09-13T12:17:52+05:30`. This is retrospective documentation, not a claim of work on `2025-12-25`.
+
+- Catalog reference: `README.md` — [open the existing snapshot file](https://github.com/nuwaran/REMONI-APP/blob/076a1b03452173f05b9f315672e0b3b7d8edf753/README.md).
+- Git object: `bdd8872844403c8db291aa40f7e9c424de122544`; mode `100644`; type `blob`.
+- Purpose: make the existing project evidence traceable to a specific, immutable snapshot. File contents, credentials, and private data are not copied into this journal.
